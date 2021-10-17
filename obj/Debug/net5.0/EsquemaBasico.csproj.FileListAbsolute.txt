@@ -1,0 +1,17 @@
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/bin/Debug/net5.0/EsquemaBasico
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/bin/Debug/net5.0/EsquemaBasico.deps.json
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/bin/Debug/net5.0/EsquemaBasico.runtimeconfig.json
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/bin/Debug/net5.0/EsquemaBasico.runtimeconfig.dev.json
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/bin/Debug/net5.0/EsquemaBasico.dll
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/bin/Debug/net5.0/ref/EsquemaBasico.dll
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/bin/Debug/net5.0/EsquemaBasico.pdb
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/bin/Debug/net5.0/OpenTK.dll
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/EsquemaBasico.csproj.AssemblyReference.cache
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/EsquemaBasico.GeneratedMSBuildEditorConfig.editorconfig
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/EsquemaBasico.AssemblyInfoInputs.cache
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/EsquemaBasico.AssemblyInfo.cs
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/EsquemaBasico.csproj.CoreCompileInputs.cache
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/EsquemaBasico.dll
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/ref/EsquemaBasico.dll
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/EsquemaBasico.pdb
+/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/obj/Debug/net5.0/EsquemaBasico.genruntimeconfig.cache

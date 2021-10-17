@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EsquemaBasico/1.0.0": {
+        "dependencies": {
+          "OpenTK": "3.0.0"
+        },
+        "runtime": {
+          "EsquemaBasico.dll": {}
+        }
+      },
+      "OpenTK/3.0.0": {
+        "runtime": {
+          "lib/net20/OpenTK.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EsquemaBasico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ko04RBXNihVlUla0lVpQV7n4CjxRk668X2LhfXdxxP/a8iWJuq5A6MksLhbhW0w5b9fRj5MS3q4dFZyZysK7kw==",
+      "path": "opentk/3.0.0",
+      "hashPath": "opentk.3.0.0.nupkg.sha512"
+    }
+  }
+}

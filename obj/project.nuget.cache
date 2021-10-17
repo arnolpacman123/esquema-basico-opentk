@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wz2VJU1FJWLdCmV1CNQym3VhyMG1IleVyxMaBYHXdXgKQ6kG4jENm5Z8fFgFH9OMXXH1Zgh42iqidR5JHFmXng==",
+  "success": true,
+  "projectFilePath": "/home/arnol/RiderProjects/EsquemaBasico/EsquemaBasico/EsquemaBasico.csproj",
+  "expectedPackageFiles": [
+    "/home/arnol/.nuget/packages/opentk/3.0.0/opentk.3.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTK 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
